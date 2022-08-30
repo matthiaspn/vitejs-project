@@ -1,0 +1,18 @@
+{
+  "name": "vitejs-project",
+  "description": "Template I used to create websites quickly",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.54.6",
+    "typescript": "^4.8.2",
+    "vite": "^3.0.9"
+  }
+}
